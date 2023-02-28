@@ -1,0 +1,147 @@
+
+/* Class = "UILabel"; text = "Email Adresi "; ObjectID = "3M2-2X-ZuR"; */
+"3M2-2X-ZuR.text" = "Email Adresi ";
+
+/* Class = "UILabel"; text = "Fiyati"; ObjectID = "4Su-jf-TIm"; */
+"4Su-jf-TIm.text" = "Fiyati";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5VY-r4-bvu"; */
+"5VY-r4-bvu.text" = "Label";
+
+/* Class = "UILabel"; text = "Lezzet Durağı"; ObjectID = "62B-nd-EeV"; */
+"62B-nd-EeV.text" = "Lezzet Durağı";
+
+/* Class = "UILabel"; text = "Kullanıcı Bilgileri "; ObjectID = "73T-T8-MCG"; */
+"73T-T8-MCG.text" = "Kullanıcı Bilgileri ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "7ph-Uh-UCU"; */
+"7ph-Uh-UCU.text" = "0";
+
+/* Class = "UIButton"; configuration.title = "Sepeti Onayla"; ObjectID = "9YW-qk-SW4"; */
+"9YW-qk-SW4.configuration.title" = "Sepeti Onayla";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9YW-qk-SW4"; */
+"9YW-qk-SW4.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Mail Adresi"; ObjectID = "A7j-tL-8jh"; */
+"A7j-tL-8jh.placeholder" = "Mail Adresi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CiJ-pG-Mj1"; */
+"CiJ-pG-Mj1.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Mail Adresi"; ObjectID = "GK6-2T-ue4"; */
+"GK6-2T-ue4.placeholder" = "Mail Adresi";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gl7-BM-Owr"; */
+"Gl7-BM-Owr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Merhaba 🖐️"; ObjectID = "JDR-u8-b9y"; */
+"JDR-u8-b9y.text" = "Merhaba 🖐️";
+
+/* Class = "UILabel"; text = "🛒 Sepetim"; ObjectID = "L95-MA-thZ"; */
+"L95-MA-thZ.text" = "🛒 Sepetim";
+
+/* Class = "UILabel"; text = "(KDV Dahil)"; ObjectID = "LOu-Ol-hOG"; */
+"LOu-Ol-hOG.text" = "(KDV Dahil)";
+
+/* Class = "UILabel"; text = "10₺"; ObjectID = "Nbt-JV-5Z6"; */
+"Nbt-JV-5Z6.text" = "10₺";
+
+/* Class = "UILabel"; text = "👥"; ObjectID = "NqE-vn-5Fx"; */
+"NqE-vn-5Fx.text" = "👥";
+
+/* Class = "UILabel"; text = "Ayran"; ObjectID = "OvY-hj-Uqb"; */
+"OvY-hj-Uqb.text" = "Ayran";
+
+/* Class = "UITextField"; placeholder = "Şifre Tekrarı"; ObjectID = "PIY-Ke-Djs"; */
+"PIY-Ke-Djs.placeholder" = "Şifre Tekrarı";
+
+/* Class = "UIButton"; configuration.title = "Çıkış Yap"; ObjectID = "PuQ-Hi-pG0"; */
+"PuQ-Hi-pG0.configuration.title" = "Çıkış Yap";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PuQ-Hi-pG0"; */
+"PuQ-Hi-pG0.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Şifre"; ObjectID = "RF2-40-cRp"; */
+"RF2-40-cRp.placeholder" = "Şifre";
+
+/* Class = "UILabel"; text = "0 ₺"; ObjectID = "Smp-GS-g7t"; */
+"Smp-GS-g7t.text" = "0 ₺";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "TTI-HX-JWS"; */
+"TTI-HX-JWS.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "W4C-tW-lKG"; */
+"W4C-tW-lKG.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Sepete Ekle"; ObjectID = "aGv-To-5a5"; */
+"aGv-To-5a5.configuration.title" = "Sepete Ekle";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aGv-To-5a5"; */
+"aGv-To-5a5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "aIE-jB-AoG"; */
+"aIE-jB-AoG.text" = "0";
+
+/* Class = "UILabel"; text = "Kayıt Tarihi "; ObjectID = "c4W-BJ-3sy"; */
+"c4W-BJ-3sy.text" = "Kayıt Tarihi ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dMv-QW-l7C"; */
+"dMv-QW-l7C.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Cart"; ObjectID = "eRj-tr-fHo"; */
+"eRj-tr-fHo.title" = "Cart";
+
+/* Class = "UILabel"; text = "Toplam Tutar"; ObjectID = "efv-lB-aoj"; */
+"efv-lB-aoj.text" = "Toplam Tutar";
+
+/* Class = "UILabel"; text = "Adi"; ObjectID = "gCw-Do-Qv6"; */
+"gCw-Do-Qv6.text" = "Adi";
+
+/* Class = "UILabel"; text = "Adet"; ObjectID = "gFi-Ip-NoQ"; */
+"gFi-Ip-NoQ.text" = "Adet";
+
+/* Class = "UILabel"; text = "Toplam "; ObjectID = "grm-WD-kb1"; */
+"grm-WD-kb1.text" = "Toplam ";
+
+/* Class = "UIButton"; configuration.title = "Yeni Kullanıcı Oluştur"; ObjectID = "htT-ZD-aEG"; */
+"htT-ZD-aEG.configuration.title" = "Yeni Kullanıcı Oluştur";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "htT-ZD-aEG"; */
+"htT-ZD-aEG.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Kayıt Ol"; ObjectID = "iWO-Sh-T2X"; */
+"iWO-Sh-T2X.configuration.title" = "Kayıt Ol";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iWO-Sh-T2X"; */
+"iWO-Sh-T2X.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "a"; ObjectID = "oJ2-yO-YWo"; */
+"oJ2-yO-YWo.text" = "a";
+
+/* Class = "UILabel"; text = "12 dk"; ObjectID = "rDW-1b-9hQ"; */
+"rDW-1b-9hQ.text" = "12 dk";
+
+/* Class = "UILabel"; text = "Milli içeceğimiz Ayran ! Bu sıcaklarda yemeklerimize misafir olması dışında serinlemek için bile lıkır lıkır içiyoruz"; ObjectID = "tPh-Vp-wJJ"; */
+"tPh-Vp-wJJ.text" = "Milli içeceğimiz Ayran ! Bu sıcaklarda yemeklerimize misafir olması dışında serinlemek için bile lıkır lıkır içiyoruz";
+
+/* Class = "UIButton"; configuration.title = "Tümünü Boşalt"; ObjectID = "uBx-jL-wLK"; */
+"uBx-jL-wLK.configuration.title" = "Tümünü Boşalt";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uBx-jL-wLK"; */
+"uBx-jL-wLK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wHJ-ue-CBq"; */
+"wHJ-ue-CBq.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Giriş Yap"; ObjectID = "web-hN-Obv"; */
+"web-hN-Obv.configuration.title" = "Giriş Yap";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "web-hN-Obv"; */
+"web-hN-Obv.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Şifre"; ObjectID = "xmC-R2-MQr"; */
+"xmC-R2-MQr.placeholder" = "Şifre";
+
+/* Class = "UILabel"; text = "Lezzet Durağına Hoşgeldin 👋    "; ObjectID = "z8L-2Q-RhP"; */
+"z8L-2Q-RhP.text" = "Lezzet Durağına Hoşgeldin 👋    ";

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icon-512-maskable.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
