@@ -12,7 +12,8 @@ I used for the application;
 
 - Collection View 
 - Table View 
-- Stack View Auto Layout 
+- Stack View 
+- Auto Layout 
 - Custom Tabbar 
 - Search Bar
 - Alert
