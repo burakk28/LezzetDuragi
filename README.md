@@ -40,7 +40,12 @@ Screens ; <br>
     <td><img width="100%" alt="2" src="https://user-images.githubusercontent.com/77745850/221878577-ca9467d3-b5e3-4c1f-b0e2-100608294369.png"></td>
     <td><img width="100%" alt="3" src="https://user-images.githubusercontent.com/77745850/221878587-439f5ad3-515b-48c9-99d0-23c819e1e03a.png"></td>
    </tr> 
+    <tr>
+    <td><img width="514" alt="4" src="https://user-images.githubusercontent.com/77745850/221879023-9ac376d0-e40f-4ee3-b111-5713c04fa78a.png"></td>
+    <td><img width="514" alt="5" src="https://user-images.githubusercontent.com/77745850/221879038-b871943f-d08d-4c75-8b65-d3254a864bda.png"></td>
+    <td><img width="514" alt="6" src="https://user-images.githubusercontent.com/77745850/221879047-7a09c655-0b16-4090-a7fb-7924adbc3d8c.png"></td>
+   </tr> 
  
-  </tr>
+ 
 </table>
 
