@@ -8,6 +8,11 @@ Architecture
 
 - Viper
 
+Database
+
+- API
+- Firebase
+
 I used for the application;
 
 - Collection View 
