@@ -13,19 +13,22 @@ Database
 - API
 - Firebase
 
-I used for the application;
+Library
+- Kingfisher
+- Alamofire
+- Firebase
 
-- Collection View 
-- Table View 
-- Stack View 
+
+I used these for the project ;
+
+- UICollectionView 
+- UITableView 
+- UIStackView
+- Search Bar
 - Auto Layout 
 - Custom Tabbar 
 - Search Bar
 - Alert
-
-
-
-
 
 
 
