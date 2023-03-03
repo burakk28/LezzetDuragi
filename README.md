@@ -1,6 +1,6 @@
 
 <body>
-  <h1> <img width="5%" alt="icon" src="https://user-images.githubusercontent.com/77745850/222790117-b93c09be-3a18-435f-90dd-6354b8afb046.png">Lezzet Durağı </h1>
+  <h7> <img width="5%" alt="icon" src="https://user-images.githubusercontent.com/77745850/222790117-b93c09be-3a18-435f-90dd-6354b8afb046.png">Lezzet Durağı </h1>
   
 </body>
 
