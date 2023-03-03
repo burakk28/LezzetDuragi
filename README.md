@@ -1,5 +1,5 @@
-# LezzetDuragi (https://user-images.githubusercontent.com/77745850/222788555-dbce82b4-0ef2-4f09-88d2-3f77e07e2708.png)
-
+ ![icon-512](https://user-images.githubusercontent.com/77745850/222788650-41d6940c-f39e-47dd-9c5f-b90e845cb9a7.png)
+  # LezzetDuragi 
 
 Framework 
 
