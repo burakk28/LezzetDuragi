@@ -1,6 +1,8 @@
 
-<img width="8%" alt="icon" src="https://user-images.githubusercontent.com/77745850/222788650-41d6940c-f39e-47dd-9c5f-b90e845cb9a7.png"><h1>LezzetDuragi</h1>
-
+<head>
+<title><img width="8%" alt="icon" src="https://user-images.githubusercontent.com/77745850/222788650-41d6940c-f39e-47dd-9c5f-b90e845cb9a7.png"></title>
+<h1>LezzetDuragi</h1>
+</head>
 Framework 
 
 - UIKit
