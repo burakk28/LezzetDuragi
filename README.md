@@ -1,7 +1,8 @@
 
-<head>
-<title> LezzetDuragi </title>
-</head>
+<body>
+  <h1>H1 Başlık</h1>
+</body>
+![icon-512](https://user-images.githubusercontent.com/77745850/222790117-b93c09be-3a18-435f-90dd-6354b8afb046.png)
 
 
 Framework 
