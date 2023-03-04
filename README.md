@@ -1,4 +1,4 @@
-<h1><span style="font-size:80px"><img src="https://user-images.githubusercontent.com/77745850/222790117-b93c09be-3a18-435f-90dd-6354b8afb046.png"  height="25" />&nbsp;Lezzet Durağı</span></h1>
+<h1 align="center"><span style="font-size:80px"><img src="https://user-images.githubusercontent.com/77745850/222790117-b93c09be-3a18-435f-90dd-6354b8afb046.png"  height="25" />&nbsp;Lezzet Durağı</span></h1>
 <p align="center">  
 LezzetDuragi application is for demonstrating technology with Viper architecture working with Firebase and API. This app contains food ordering contents and features.
   </p>
