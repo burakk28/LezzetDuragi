@@ -32,6 +32,8 @@ I used these for the project ;
 - Search Bar
 - Alert
 
+![1](https://user-images.githubusercontent.com/77745850/222897008-ad9de762-51fe-46c6-bc5c-ba38d557a4b9.png)
+![2](https://user-images.githubusercontent.com/77745850/222897014-26b875d3-22fe-49ff-96b1-b84f5243d080.png)
 
 
 Screens ; <br>
